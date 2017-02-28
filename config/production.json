@@ -1,0 +1,9 @@
+{
+    "dbURL": "mongodb://chatappuser:chatapppw@ds153669.mlab.com:53669/okeyyouwin",
+    "sessionSecret": "qwertyuiopasdfghjkl123456789",
+    "fb": {
+        "appID": "1315658178456122",
+        "appSecret": "3ddabf5be6875138cb138b7f526aaa1d",
+        "callbackUrl": "http://localhost:3000/auth/facebook/callback"
+    }
+}
